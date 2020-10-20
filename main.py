@@ -1,1 +1,1 @@
-pring('Hello Lads!')
+print('Hello Lads!')
