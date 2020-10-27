@@ -1,4 +1,4 @@
-county,Date,Date,Confirmed Covid Patients,Suspected Covid Patinets,Confirmed Covid ICU Patients,ICU suspected COVID Patients,ICU Beds Available
+County,Date,Date,Confirmed Covid Patients,Suspected Covid Patinets,Confirmed Covid ICU Patients,ICU suspected COVID Patients,ICU Beds Available
 Alameda,April,2020-04-30,93.0,106.0,46.0,26.0,197.0
 Alameda,August,2020-08-31,207.0,56.0,73.0,20.0,99.0
 Alameda,July,2020-07-31,213.0,82.0,65.0,13.0,151.0
