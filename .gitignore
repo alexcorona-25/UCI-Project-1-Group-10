@@ -1,5 +1,5 @@
 # Ignore csv files
-*.csv
+logistics_ppe.csv
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
