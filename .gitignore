@@ -1,3 +1,5 @@
+# Ignore csv files
+*.csv
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
